@@ -49,6 +49,7 @@ h1{
 	text-align: center;
 	margin: 20px auto 40px;
 	text-shadow: 10px;
+	font-size: 3em;
 }
 .col-md-12, .col-sm-12, .col-xs-12{
 margin-bottom: 60px;
@@ -57,8 +58,8 @@ margin-bottom: 60px;
 	background-color: #C4595F;
 }
 
-#chicken, #sushi, #beef h2{
-	font-size: 5em;
+#chicken h2, #sushi h2, #beef h2{
+	font-size: 2.5em;
 	text-align: center;
 	margin-bottom: 20px;
 	color: #370648;
